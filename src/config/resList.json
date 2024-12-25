@@ -1,0 +1,1564 @@
+[
+    {
+        "info": {
+            "id": "647350",
+            "name": "Louis Burger",
+            "cloudinaryImageId": "19d3d352cc815b9d88b22617b41fa97b",
+            "locality": "Madinaguda Village",
+            "areaName": "Miyapur",
+            "costForTwo": "₹600 for two",
+            "cuisines": [
+                "Burgers",
+                "American",
+                "Fast Food"
+            ],
+            "avgRating": 4.2,
+            "parentId": "22485",
+            "avgRatingString": "4.2",
+            "totalRatingsString": "3.9K+",
+            "sla": {
+                "deliveryTime": 30,
+                "lastMileTravel": 2.6,
+                "serviceability": "SERVICEABLE",
+                "slaString": "30-35 mins",
+                "lastMileTravelString": "2.6 km",
+                "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+                "nextCloseTime": "2024-12-26 04:00:00",
+                "opened": true
+            },
+            "badges": {},
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+                "entityBadges": {
+                    "imageBased": {},
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                }
+            },
+            "aggregatedDiscountInfoV3": {
+                "header": "50% OFF",
+                "subHeader": "UPTO ₹100"
+            },
+            "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                    "lottie": {},
+                    "video": {}
+                }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {},
+            "externalRatings": {
+                "aggregatedRating": {
+                    "rating": "--"
+                }
+            },
+            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+        },
+        "analytics": {
+            "context": "seo-data-21ca2b34-a5eb-4c64-9d2d-405af77e2b7f"
+        },
+        "cta": {
+            "link": "https://www.swiggy.com/city/hyderabad/louis-burger-madinaguda-village-miyapur-rest647350",
+            "type": "WEBLINK"
+        }
+    },
+    {
+        "info": {
+            "id": "315029",
+            "name": "Olio - The Wood Fired Pizzeria",
+            "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/11/29/1fc94454-525b-42ed-874b-82b1bd16c77e_315029.jpg",
+            "locality": "Kondapur",
+            "areaName": "Kondapur",
+            "costForTwo": "₹300 for two",
+            "cuisines": [
+                "Pizzas",
+                "Beverages"
+            ],
+            "avgRating": 4.3,
+            "parentId": "11633",
+            "avgRatingString": "4.3",
+            "totalRatingsString": "5.7K+",
+            "sla": {
+                "deliveryTime": 32,
+                "lastMileTravel": 4.3,
+                "serviceability": "SERVICEABLE",
+                "slaString": "30-35 mins",
+                "lastMileTravelString": "4.3 km",
+                "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+                "nextCloseTime": "2024-12-26 05:00:00",
+                "opened": true
+            },
+            "badges": {
+                "imageBadges": [
+                    {
+                        "imageId": "newg.png",
+                        "description": "Gourmet"
+                    }
+                ]
+            },
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+                "entityBadges": {
+                    "imageBased": {
+                        "badgeObject": [
+                            {
+                                "attributes": {
+                                    "description": "Gourmet",
+                                    "imageId": "newg.png"
+                                }
+                            }
+                        ]
+                    },
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                }
+            },
+            "aggregatedDiscountInfoV3": {
+                "header": "ITEMS",
+                "subHeader": "AT ₹99"
+            },
+            "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                    "lottie": {},
+                    "video": {}
+                }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {},
+            "externalRatings": {
+                "aggregatedRating": {
+                    "rating": "3.2",
+                    "ratingCount": "328"
+                },
+                "source": "GOOGLE",
+                "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+            },
+            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+        },
+        "analytics": {
+            "context": "seo-data-21ca2b34-a5eb-4c64-9d2d-405af77e2b7f"
+        },
+        "cta": {
+            "link": "https://www.swiggy.com/city/hyderabad/olio-the-wood-fired-pizzeria-kondapur-rest315029",
+            "type": "WEBLINK"
+        }
+    },
+    {
+        "info": {
+            "id": "1068",
+            "name": "Box Eat by Rice Bowl",
+            "cloudinaryImageId": "4b9596bf72e9f9934bdc6104f5fe7fb8",
+            "locality": "Telecom Nagar",
+            "areaName": "Kondapur",
+            "costForTwo": "₹400 for two",
+            "cuisines": [
+                "North Indian",
+                "South Indian"
+            ],
+            "avgRating": 4.1,
+            "parentId": "432849",
+            "avgRatingString": "4.1",
+            "totalRatingsString": "41K+",
+            "sla": {
+                "deliveryTime": 25,
+                "lastMileTravel": 4.1,
+                "serviceability": "SERVICEABLE",
+                "slaString": "20-25 mins",
+                "lastMileTravelString": "4.1 km",
+                "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+                "nextCloseTime": "2024-12-26 03:00:00",
+                "opened": true
+            },
+            "badges": {},
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+                "entityBadges": {
+                    "imageBased": {},
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                }
+            },
+            "aggregatedDiscountInfoV3": {
+                "header": "₹125 OFF",
+                "subHeader": "ABOVE ₹249",
+                "discountTag": "FLAT DEAL"
+            },
+            "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                    "lottie": {},
+                    "video": {}
+                }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {},
+            "externalRatings": {
+                "aggregatedRating": {
+                    "rating": "--"
+                }
+            },
+            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+        },
+        "analytics": {
+            "context": "seo-data-21ca2b34-a5eb-4c64-9d2d-405af77e2b7f"
+        },
+        "cta": {
+            "link": "https://www.swiggy.com/city/hyderabad/box-eat-by-rice-bowl-telecom-nagar-kondapur-rest1068",
+            "type": "WEBLINK"
+        }
+    },
+    {
+        "info": {
+            "id": "324362",
+            "name": "Tossin Pizza",
+            "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/3/29/3e48f6ac-eac5-448d-bcfc-34e19d41a42a_324362.jpg",
+            "locality": "Gachibowli",
+            "areaName": "Gachibowli",
+            "costForTwo": "₹600 for two",
+            "cuisines": [
+                "Pizzas",
+                "Italian",
+                "Beverages",
+                "Desserts"
+            ],
+            "avgRating": 4.3,
+            "parentId": "1778",
+            "avgRatingString": "4.3",
+            "totalRatingsString": "3.5K+",
+            "sla": {
+                "deliveryTime": 30,
+                "lastMileTravel": 5,
+                "serviceability": "SERVICEABLE",
+                "slaString": "25-35 mins",
+                "lastMileTravelString": "5.0 km",
+                "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+                "nextCloseTime": "2024-12-26 06:00:00",
+                "opened": true
+            },
+            "badges": {},
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+                "entityBadges": {
+                    "imageBased": {},
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                }
+            },
+            "aggregatedDiscountInfoV3": {
+                "header": "50% OFF",
+                "subHeader": "UPTO ₹100"
+            },
+            "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                    "lottie": {},
+                    "video": {}
+                }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {},
+            "externalRatings": {
+                "aggregatedRating": {
+                    "rating": "4.3",
+                    "ratingCount": "839"
+                },
+                "source": "GOOGLE",
+                "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+            },
+            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+        },
+        "analytics": {
+            "context": "seo-data-21ca2b34-a5eb-4c64-9d2d-405af77e2b7f"
+        },
+        "cta": {
+            "link": "https://www.swiggy.com/city/hyderabad/tossin-pizza-gachibowli-rest324362",
+            "type": "WEBLINK"
+        }
+    },
+    {
+        "info": {
+            "id": "379027",
+            "name": "The Brooklyn Creamery - Healthy Ice Cream",
+            "cloudinaryImageId": "b1b35780a9b1dfeb26d680506d494eaa",
+            "locality": "NOOR E MANZIL",
+            "areaName": "Taranagar",
+            "costForTwo": "₹200 for two",
+            "cuisines": [
+                "Ice Cream",
+                "Desserts",
+                "Healthy Food"
+            ],
+            "avgRating": 4.1,
+            "veg": true,
+            "parentId": "236673",
+            "avgRatingString": "4.1",
+            "totalRatingsString": "379",
+            "sla": {
+                "deliveryTime": 27,
+                "lastMileTravel": 3.9,
+                "serviceability": "SERVICEABLE",
+                "slaString": "25-30 mins",
+                "lastMileTravelString": "3.9 km",
+                "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+                "nextCloseTime": "2024-12-26 03:00:00",
+                "opened": true
+            },
+            "badges": {},
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+                "entityBadges": {
+                    "imageBased": {},
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                }
+            },
+            "aggregatedDiscountInfoV3": {
+                "header": "50% OFF",
+                "subHeader": "UPTO ₹100"
+            },
+            "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                    "lottie": {},
+                    "video": {}
+                }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {},
+            "externalRatings": {
+                "aggregatedRating": {
+                    "rating": "--"
+                }
+            },
+            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+        },
+        "analytics": {
+            "context": "seo-data-21ca2b34-a5eb-4c64-9d2d-405af77e2b7f"
+        },
+        "cta": {
+            "link": "https://www.swiggy.com/city/hyderabad/the-brooklyn-creamery-healthy-ice-cream-noor-e-manzil-taranagar-rest379027",
+            "type": "WEBLINK"
+        }
+    },
+    {
+        "info": {
+            "id": "337986",
+            "name": "Subway",
+            "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/12/9/3c6ff076-32fc-47d2-90e3-062746e9a734_337986.JPG",
+            "locality": "Botanical Garden",
+            "areaName": "Kondapur",
+            "costForTwo": "₹350 for two",
+            "cuisines": [
+                "sandwich",
+                "Salads",
+                "wrap",
+                "Healthy Food"
+            ],
+            "avgRating": 4.3,
+            "parentId": "2",
+            "avgRatingString": "4.3",
+            "totalRatingsString": "5.5K+",
+            "sla": {
+                "deliveryTime": 30,
+                "lastMileTravel": 1.8,
+                "serviceability": "SERVICEABLE",
+                "slaString": "30-35 mins",
+                "lastMileTravelString": "1.8 km",
+                "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+                "nextCloseTime": "2024-12-26 06:30:00",
+                "opened": true
+            },
+            "badges": {},
+            "isOpen": true,
+            "aggregatedDiscountInfoV2": {},
+            "type": "F",
+            "badgesV2": {
+                "entityBadges": {
+                    "imageBased": {},
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                }
+            },
+            "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                    "lottie": {},
+                    "video": {}
+                }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {},
+            "externalRatings": {
+                "aggregatedRating": {
+                    "rating": "--"
+                }
+            },
+            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+        },
+        "analytics": {
+            "context": "seo-data-21ca2b34-a5eb-4c64-9d2d-405af77e2b7f"
+        },
+        "cta": {
+            "link": "https://www.swiggy.com/city/hyderabad/subway-botanical-garden-kondapur-rest337986",
+            "type": "WEBLINK"
+        }
+    },
+    {
+        "info": {
+            "id": "387958",
+            "name": "Crusto's - Cheese Burst Pizza By Olio",
+            "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/11/29/b33eec66-1d36-4b62-84f6-aa8edbaa5fe7_387958.jpg",
+            "locality": "Near Boston Living",
+            "areaName": "Kondapur",
+            "costForTwo": "₹300 for two",
+            "cuisines": [
+                "Pizzas",
+                "Italian"
+            ],
+            "avgRating": 4.3,
+            "parentId": "268955",
+            "avgRatingString": "4.3",
+            "totalRatingsString": "4.0K+",
+            "sla": {
+                "deliveryTime": 35,
+                "lastMileTravel": 4.3,
+                "serviceability": "SERVICEABLE",
+                "slaString": "30-35 mins",
+                "lastMileTravelString": "4.3 km",
+                "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+                "nextCloseTime": "2024-12-26 05:00:00",
+                "opened": true
+            },
+            "badges": {},
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+                "entityBadges": {
+                    "imageBased": {},
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                }
+            },
+            "aggregatedDiscountInfoV3": {
+                "header": "ITEMS",
+                "subHeader": "AT ₹99"
+            },
+            "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                    "lottie": {},
+                    "video": {}
+                }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {},
+            "externalRatings": {
+                "aggregatedRating": {
+                    "rating": "--"
+                }
+            },
+            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+        },
+        "analytics": {
+            "context": "seo-data-21ca2b34-a5eb-4c64-9d2d-405af77e2b7f"
+        },
+        "cta": {
+            "link": "https://www.swiggy.com/city/hyderabad/crustos-cheese-burst-pizza-by-olio-near-boston-living-kondapur-rest387958",
+            "type": "WEBLINK"
+        }
+    },
+    {
+        "info": {
+            "id": "789161",
+            "name": "Crunch Pizza",
+            "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/12/21/0d693ad9-ddc3-4cc5-8e8f-f7c2fd8a216b_789161.jpg",
+            "locality": "WHITEFIELDS",
+            "areaName": "Gachibowli",
+            "costForTwo": "₹850 for two",
+            "cuisines": [
+                "Pizzas",
+                "Fast Food",
+                "Beverages"
+            ],
+            "avgRating": 4,
+            "parentId": "512802",
+            "avgRatingString": "4.0",
+            "totalRatingsString": "136",
+            "sla": {
+                "deliveryTime": 35,
+                "lastMileTravel": 4.3,
+                "serviceability": "SERVICEABLE",
+                "slaString": "30-35 mins",
+                "lastMileTravelString": "4.3 km",
+                "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+                "nextCloseTime": "2024-12-26 06:00:00",
+                "opened": true
+            },
+            "badges": {
+                "imageBadges": [
+                    {
+                        "imageId": "newg.png",
+                        "description": "Gourmet"
+                    }
+                ]
+            },
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+                "entityBadges": {
+                    "imageBased": {
+                        "badgeObject": [
+                            {
+                                "attributes": {
+                                    "description": "Gourmet",
+                                    "imageId": "newg.png"
+                                }
+                            }
+                        ]
+                    },
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                }
+            },
+            "aggregatedDiscountInfoV3": {
+                "header": "50% OFF",
+                "discountTag": "FLAT DEAL"
+            },
+            "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                    "lottie": {},
+                    "video": {}
+                }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {},
+            "externalRatings": {
+                "aggregatedRating": {
+                    "rating": "--"
+                }
+            },
+            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+        },
+        "analytics": {
+            "context": "seo-data-21ca2b34-a5eb-4c64-9d2d-405af77e2b7f"
+        },
+        "cta": {
+            "link": "https://www.swiggy.com/city/hyderabad/crunch-pizza-whitefields-gachibowli-rest789161",
+            "type": "WEBLINK"
+        }
+    },
+    {
+        "info": {
+            "id": "756188",
+            "name": "ENSO - Sourdough Pizza by Nomad",
+            "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/12/21/6202584f-bcef-46f5-bb22-1f028c3b9a61_756188.jpg",
+            "locality": "WHITEFIELDS",
+            "areaName": "Gachibowli",
+            "costForTwo": "₹850 for two",
+            "cuisines": [
+                "Pizzas",
+                "Fast Food",
+                "Desserts",
+                "Salads",
+                "Beverages"
+            ],
+            "avgRating": 4,
+            "parentId": "77344",
+            "avgRatingString": "4.0",
+            "totalRatingsString": "430",
+            "sla": {
+                "deliveryTime": 33,
+                "lastMileTravel": 4.3,
+                "serviceability": "SERVICEABLE",
+                "slaString": "30-35 mins",
+                "lastMileTravelString": "4.3 km",
+                "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+                "nextCloseTime": "2024-12-26 06:00:00",
+                "opened": true
+            },
+            "badges": {
+                "imageBadges": [
+                    {
+                        "imageId": "newg.png",
+                        "description": "Gourmet"
+                    }
+                ]
+            },
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+                "entityBadges": {
+                    "imageBased": {
+                        "badgeObject": [
+                            {
+                                "attributes": {
+                                    "description": "Gourmet",
+                                    "imageId": "newg.png"
+                                }
+                            }
+                        ]
+                    },
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                }
+            },
+            "aggregatedDiscountInfoV3": {
+                "header": "ITEMS",
+                "subHeader": "AT ₹299"
+            },
+            "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                    "lottie": {},
+                    "video": {}
+                }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {},
+            "externalRatings": {
+                "aggregatedRating": {
+                    "rating": "--"
+                }
+            },
+            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+        },
+        "analytics": {
+            "context": "seo-data-21ca2b34-a5eb-4c64-9d2d-405af77e2b7f"
+        },
+        "cta": {
+            "link": "https://www.swiggy.com/city/hyderabad/enso-sourdough-pizza-by-nomad-whitefields-gachibowli-rest756188",
+            "type": "WEBLINK"
+        }
+    },
+    {
+        "info": {
+            "id": "831207",
+            "name": "Pastas By Pizza Hut",
+            "cloudinaryImageId": "dce75bf0d124fb1fa390597828d8ffd9",
+            "locality": "Hafeezpet",
+            "areaName": "Miyapur",
+            "costForTwo": "₹400 for two",
+            "cuisines": [
+                "Pastas"
+            ],
+            "avgRating": 3.6,
+            "parentId": "306806",
+            "avgRatingString": "3.6",
+            "totalRatingsString": "25",
+            "sla": {
+                "deliveryTime": 31,
+                "lastMileTravel": 3,
+                "serviceability": "SERVICEABLE",
+                "slaString": "30-35 mins",
+                "lastMileTravelString": "3.0 km",
+                "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+                "nextCloseTime": "2024-12-26 03:00:00",
+                "opened": true
+            },
+            "badges": {
+                "textExtendedBadges": [
+                    {
+                        "iconId": "guiltfree/GF_Logo_android_3x",
+                        "shortDescription": "options available",
+                        "fontColor": "#7E808C"
+                    }
+                ]
+            },
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+                "entityBadges": {
+                    "imageBased": {},
+                    "textBased": {},
+                    "textExtendedBadges": {
+                        "badgeObject": [
+                            {
+                                "attributes": {
+                                    "description": "",
+                                    "fontColor": "#7E808C",
+                                    "iconId": "guiltfree/GF_Logo_android_3x",
+                                    "shortDescription": "options available"
+                                }
+                            }
+                        ]
+                    }
+                }
+            },
+            "aggregatedDiscountInfoV3": {
+                "header": "FREE ITEM"
+            },
+            "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                    "lottie": {},
+                    "video": {}
+                }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {},
+            "externalRatings": {
+                "aggregatedRating": {
+                    "rating": "--"
+                }
+            },
+            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+        },
+        "analytics": {
+            "context": "seo-data-21ca2b34-a5eb-4c64-9d2d-405af77e2b7f"
+        },
+        "cta": {
+            "link": "https://www.swiggy.com/city/hyderabad/pastas-by-pizza-hut-hafeezpet-miyapur-rest831207",
+            "type": "WEBLINK"
+        }
+    },
+    {
+        "info": {
+            "id": "566414",
+            "name": "Faasos' Signature Wraps & Rolls",
+            "cloudinaryImageId": "c583ca6ce40b426797a78ae2ac91f2ec",
+            "locality": "Madinaguda",
+            "areaName": "Hafeezpet",
+            "costForTwo": "₹350 for two",
+            "cuisines": [
+                "Fast Food",
+                "Snacks",
+                "North Indian",
+                "Desserts",
+                "Beverages"
+            ],
+            "avgRating": 3.6,
+            "parentId": "340366",
+            "avgRatingString": "3.6",
+            "totalRatingsString": "125",
+            "sla": {
+                "deliveryTime": 29,
+                "lastMileTravel": 2.4,
+                "serviceability": "SERVICEABLE",
+                "slaString": "25-30 mins",
+                "lastMileTravelString": "2.4 km",
+                "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+                "nextCloseTime": "2024-12-26 03:00:00",
+                "opened": true
+            },
+            "badges": {
+                "textExtendedBadges": [
+                    {
+                        "iconId": "guiltfree/GF_Logo_android_3x",
+                        "shortDescription": "options available",
+                        "fontColor": "#7E808C"
+                    }
+                ]
+            },
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+                "entityBadges": {
+                    "imageBased": {},
+                    "textBased": {},
+                    "textExtendedBadges": {
+                        "badgeObject": [
+                            {
+                                "attributes": {
+                                    "description": "",
+                                    "fontColor": "#7E808C",
+                                    "iconId": "guiltfree/GF_Logo_android_3x",
+                                    "shortDescription": "options available"
+                                }
+                            }
+                        ]
+                    }
+                }
+            },
+            "aggregatedDiscountInfoV3": {
+                "header": "ITEMS",
+                "subHeader": "AT ₹99"
+            },
+            "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                    "lottie": {},
+                    "video": {}
+                }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {},
+            "externalRatings": {
+                "aggregatedRating": {
+                    "rating": "--"
+                }
+            },
+            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+        },
+        "analytics": {
+            "context": "seo-data-21ca2b34-a5eb-4c64-9d2d-405af77e2b7f"
+        },
+        "cta": {
+            "link": "https://www.swiggy.com/city/hyderabad/faasos-signature-wraps-and-rolls-madinaguda-hafeezpet-rest566414",
+            "type": "WEBLINK"
+        }
+    },
+    {
+        "info": {
+            "id": "837814",
+            "name": "The Pizza Project by Oven Story",
+            "cloudinaryImageId": "f1b907b0b8f86c62e4fc347c6b1434e6",
+            "locality": "Madinaguda",
+            "areaName": "Hafeezpet",
+            "costForTwo": "₹400 for two",
+            "cuisines": [
+                "Pizzas",
+                "Italian",
+                "Desserts",
+                "Beverages"
+            ],
+            "avgRating": 3.7,
+            "parentId": "497031",
+            "avgRatingString": "3.7",
+            "totalRatingsString": "23",
+            "sla": {
+                "deliveryTime": 31,
+                "lastMileTravel": 2.4,
+                "serviceability": "SERVICEABLE",
+                "slaString": "30-35 mins",
+                "lastMileTravelString": "2.4 km",
+                "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+                "nextCloseTime": "2024-12-26 03:00:00",
+                "opened": true
+            },
+            "badges": {},
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+                "entityBadges": {
+                    "imageBased": {},
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                }
+            },
+            "aggregatedDiscountInfoV3": {
+                "header": "60% OFF",
+                "subHeader": "UPTO ₹120"
+            },
+            "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                    "lottie": {},
+                    "video": {}
+                }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {},
+            "externalRatings": {
+                "aggregatedRating": {
+                    "rating": "--"
+                }
+            },
+            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+        },
+        "analytics": {
+            "context": "seo-data-21ca2b34-a5eb-4c64-9d2d-405af77e2b7f"
+        },
+        "cta": {
+            "link": "https://www.swiggy.com/city/hyderabad/the-pizza-project-by-oven-story-madinaguda-hafeezpet-rest837814",
+            "type": "WEBLINK"
+        }
+    },
+    {
+        "info": {
+            "id": "801207",
+            "name": "Makhani Darbar",
+            "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/12/20/127e72ae-2bb7-428c-93a3-19292b4dd1f2_801207.JPG",
+            "locality": "Miyapur Fc RK",
+            "areaName": "Madinaguda",
+            "costForTwo": "₹500 for two",
+            "cuisines": [
+                "Kebabs",
+                "Mughlai",
+                "Beverages",
+                "Desserts"
+            ],
+            "avgRating": 4.1,
+            "parentId": "478595",
+            "avgRatingString": "4.1",
+            "totalRatingsString": "50",
+            "sla": {
+                "deliveryTime": 34,
+                "lastMileTravel": 2.4,
+                "serviceability": "SERVICEABLE",
+                "slaString": "30-35 mins",
+                "lastMileTravelString": "2.4 km",
+                "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+                "nextCloseTime": "2024-12-26 03:00:00",
+                "opened": true
+            },
+            "badges": {},
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+                "entityBadges": {
+                    "imageBased": {},
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                }
+            },
+            "aggregatedDiscountInfoV3": {
+                "header": "₹125 OFF",
+                "subHeader": "ABOVE ₹399",
+                "discountTag": "FLAT DEAL"
+            },
+            "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                    "lottie": {},
+                    "video": {}
+                }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {},
+            "externalRatings": {
+                "aggregatedRating": {
+                    "rating": "--"
+                }
+            },
+            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+        },
+        "analytics": {
+            "context": "seo-data-21ca2b34-a5eb-4c64-9d2d-405af77e2b7f"
+        },
+        "cta": {
+            "link": "https://www.swiggy.com/city/hyderabad/makhani-darbar-miyapur-fc-rk-madinaguda-rest801207",
+            "type": "WEBLINK"
+        }
+    },
+    {
+        "info": {
+            "id": "575154",
+            "name": "Veg Daawat by Behrouz",
+            "cloudinaryImageId": "2b579171cefc545ce6479e21c0016798",
+            "locality": "Madinaguda",
+            "areaName": "Hafeezpet",
+            "costForTwo": "₹700 for two",
+            "cuisines": [
+                "Biryani",
+                "North Indian",
+                "Kebabs",
+                "Mughlai",
+                "Lucknowi",
+                "Hyderabadi",
+                "Desserts",
+                "Beverages"
+            ],
+            "avgRating": 4,
+            "veg": true,
+            "parentId": "344904",
+            "avgRatingString": "4.0",
+            "totalRatingsString": "102",
+            "sla": {
+                "deliveryTime": 29,
+                "lastMileTravel": 2.4,
+                "serviceability": "SERVICEABLE",
+                "slaString": "25-30 mins",
+                "lastMileTravelString": "2.4 km",
+                "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+                "nextCloseTime": "2024-12-26 03:00:00",
+                "opened": true
+            },
+            "badges": {
+                "imageBadges": [
+                    {
+                        "imageId": "v1695133679/badges/Pure_Veg111.png",
+                        "description": "pureveg"
+                    }
+                ]
+            },
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+                "entityBadges": {
+                    "imageBased": {
+                        "badgeObject": [
+                            {
+                                "attributes": {
+                                    "description": "pureveg",
+                                    "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                }
+                            }
+                        ]
+                    },
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                }
+            },
+            "aggregatedDiscountInfoV3": {
+                "header": "50% OFF",
+                "subHeader": "UPTO ₹100"
+            },
+            "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                    "lottie": {},
+                    "video": {}
+                }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {},
+            "externalRatings": {
+                "aggregatedRating": {
+                    "rating": "--"
+                }
+            },
+            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+        },
+        "analytics": {
+            "context": "seo-data-21ca2b34-a5eb-4c64-9d2d-405af77e2b7f"
+        },
+        "cta": {
+            "link": "https://www.swiggy.com/city/hyderabad/veg-daawat-by-behrouz-madinaguda-hafeezpet-rest575154",
+            "type": "WEBLINK"
+        }
+    },
+    {
+        "info": {
+            "id": "263562",
+            "name": "Veg Meals by Lunchbox",
+            "cloudinaryImageId": "vybmz8l1ycnf5k4e6wtl",
+            "locality": "Madinaguda",
+            "areaName": "Hafeezpet",
+            "costForTwo": "₹200 for two",
+            "cuisines": [
+                "Biryani",
+                "North Indian",
+                "Desserts",
+                "Beverages"
+            ],
+            "avgRating": 4.1,
+            "veg": true,
+            "parentId": "21938",
+            "avgRatingString": "4.1",
+            "totalRatingsString": "402",
+            "sla": {
+                "deliveryTime": 27,
+                "lastMileTravel": 2.4,
+                "serviceability": "SERVICEABLE",
+                "slaString": "25-30 mins",
+                "lastMileTravelString": "2.4 km",
+                "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+                "nextCloseTime": "2024-12-26 03:00:00",
+                "opened": true
+            },
+            "badges": {
+                "imageBadges": [
+                    {
+                        "imageId": "v1695133679/badges/Pure_Veg111.png",
+                        "description": "pureveg"
+                    }
+                ]
+            },
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+                "entityBadges": {
+                    "imageBased": {
+                        "badgeObject": [
+                            {
+                                "attributes": {
+                                    "description": "pureveg",
+                                    "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                }
+                            }
+                        ]
+                    },
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                }
+            },
+            "aggregatedDiscountInfoV3": {
+                "header": "ITEMS",
+                "subHeader": "AT ₹159"
+            },
+            "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                    "lottie": {},
+                    "video": {}
+                }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {},
+            "externalRatings": {
+                "aggregatedRating": {
+                    "rating": "--"
+                }
+            },
+            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+        },
+        "analytics": {
+            "context": "seo-data-21ca2b34-a5eb-4c64-9d2d-405af77e2b7f"
+        },
+        "cta": {
+            "link": "https://www.swiggy.com/city/hyderabad/veg-meals-by-lunchbox-madinaguda-hafeezpet-rest263562",
+            "type": "WEBLINK"
+        }
+    },
+    {
+        "info": {
+            "id": "11110",
+            "name": "Pizza Hut",
+            "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/7/16/c3a822ed-b204-4cc8-91a1-540f1d66dd43_11110.jpg",
+            "locality": "Hafeezpet",
+            "areaName": "Miyapur",
+            "costForTwo": "₹350 for two",
+            "cuisines": [
+                "Pizzas"
+            ],
+            "avgRating": 4,
+            "parentId": "721",
+            "avgRatingString": "4.0",
+            "totalRatingsString": "15K+",
+            "sla": {
+                "deliveryTime": 32,
+                "lastMileTravel": 3,
+                "serviceability": "SERVICEABLE",
+                "slaString": "30-35 mins",
+                "lastMileTravelString": "3.0 km",
+                "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+                "nextCloseTime": "2024-12-26 03:00:00",
+                "opened": true
+            },
+            "badges": {},
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+                "entityBadges": {
+                    "imageBased": {},
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                }
+            },
+            "aggregatedDiscountInfoV3": {
+                "header": "50% OFF",
+                "discountTag": "FLAT DEAL"
+            },
+            "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                    "lottie": {},
+                    "video": {}
+                }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {},
+            "externalRatings": {
+                "aggregatedRating": {
+                    "rating": "--"
+                }
+            },
+            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+        },
+        "analytics": {
+            "context": "seo-data-21ca2b34-a5eb-4c64-9d2d-405af77e2b7f"
+        },
+        "cta": {
+            "link": "https://www.swiggy.com/city/hyderabad/pizza-hut-hafeezpet-miyapur-rest11110",
+            "type": "WEBLINK"
+        }
+    },
+    {
+        "info": {
+            "id": "15156",
+            "name": "Faasos - Wraps, Rolls & Shawarma",
+            "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/7/28/2a662c24-6690-4d71-818c-ee0d92fc159f_15156.JPG",
+            "locality": "Madinaguda",
+            "areaName": "Hafeezpet",
+            "costForTwo": "₹200 for two",
+            "cuisines": [
+                "Kebabs",
+                "Fast Food",
+                "Snacks",
+                "American",
+                "Healthy Food",
+                "Desserts",
+                "Beverages"
+            ],
+            "avgRating": 4,
+            "parentId": "21809",
+            "avgRatingString": "4.0",
+            "totalRatingsString": "20K+",
+            "sla": {
+                "deliveryTime": 33,
+                "lastMileTravel": 2.4,
+                "serviceability": "SERVICEABLE",
+                "slaString": "30-35 mins",
+                "lastMileTravelString": "2.4 km",
+                "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+                "nextCloseTime": "2024-12-26 03:00:00",
+                "opened": true
+            },
+            "badges": {
+                "imageBadges": [
+                    {
+                        "imageId": "Rxawards/_CATEGORY-Rolls.png",
+                        "description": "Delivery!"
+                    }
+                ]
+            },
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+                "entityBadges": {
+                    "imageBased": {
+                        "badgeObject": [
+                            {
+                                "attributes": {
+                                    "description": "Delivery!",
+                                    "imageId": "Rxawards/_CATEGORY-Rolls.png"
+                                }
+                            }
+                        ]
+                    },
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                }
+            },
+            "aggregatedDiscountInfoV3": {
+                "header": "50% OFF",
+                "subHeader": "UPTO ₹100"
+            },
+            "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                    "lottie": {},
+                    "video": {}
+                }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {},
+            "externalRatings": {
+                "aggregatedRating": {
+                    "rating": "--"
+                }
+            },
+            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+        },
+        "analytics": {
+            "context": "seo-data-21ca2b34-a5eb-4c64-9d2d-405af77e2b7f"
+        },
+        "cta": {
+            "link": "https://www.swiggy.com/city/hyderabad/faasos-wraps-rolls-and-shawarma-madinaguda-hafeezpet-rest15156",
+            "type": "WEBLINK"
+        }
+    },
+    {
+        "info": {
+            "id": "577939",
+            "name": "Burger King",
+            "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/6/11/662bb58f-7b46-40e3-938a-6ca094b2677a_577939.JPG",
+            "locality": "Chandanagar Circle No 21",
+            "areaName": "Miyapur",
+            "costForTwo": "₹350 for two",
+            "cuisines": [
+                "Burgers",
+                "American"
+            ],
+            "avgRating": 4.2,
+            "parentId": "166",
+            "avgRatingString": "4.2",
+            "totalRatingsString": "13K+",
+            "sla": {
+                "deliveryTime": 26,
+                "lastMileTravel": 3,
+                "serviceability": "SERVICEABLE",
+                "slaString": "25-30 mins",
+                "lastMileTravelString": "3.0 km",
+                "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+                "nextCloseTime": "2024-12-26 03:45:00",
+                "opened": true
+            },
+            "badges": {},
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+                "entityBadges": {
+                    "imageBased": {},
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                }
+            },
+            "aggregatedDiscountInfoV3": {
+                "header": "60% OFF",
+                "subHeader": "UPTO ₹120"
+            },
+            "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                    "lottie": {},
+                    "video": {}
+                }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {},
+            "externalRatings": {
+                "aggregatedRating": {
+                    "rating": "--"
+                }
+            },
+            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+        },
+        "analytics": {
+            "context": "seo-data-21ca2b34-a5eb-4c64-9d2d-405af77e2b7f"
+        },
+        "cta": {
+            "link": "https://www.swiggy.com/city/hyderabad/burger-king-chandanagar-circle-no-21-miyapur-rest577939",
+            "type": "WEBLINK"
+        }
+    },
+    {
+        "info": {
+            "id": "33040",
+            "name": "Shah Ghouse Hotel & Restaurant",
+            "cloudinaryImageId": "hnx9nazpxdpqpypjo8ld",
+            "locality": "Gachibowli",
+            "areaName": "Gachibowli",
+            "costForTwo": "₹350 for two",
+            "cuisines": [
+                "Biryani",
+                "Chinese",
+                "Mughlai",
+                "Tandoor"
+            ],
+            "avgRating": 4.2,
+            "parentId": "19271",
+            "avgRatingString": "4.2",
+            "totalRatingsString": "200K+",
+            "sla": {
+                "deliveryTime": 33,
+                "lastMileTravel": 7.7,
+                "serviceability": "SERVICEABLE",
+                "slaString": "30-35 mins",
+                "lastMileTravelString": "7.7 km",
+                "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+                "nextCloseTime": "2024-12-26 04:00:00",
+                "opened": true
+            },
+            "badges": {
+                "imageBadges": [
+                    {
+                        "imageId": "Rxawards/_CATEGORY-Biryani.png",
+                        "description": "Delivery!"
+                    },
+                    {
+                        "imageId": "Rxawards/_CATEGORY-Mughlai.png",
+                        "description": "Delivery!"
+                    }
+                ]
+            },
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+                "entityBadges": {
+                    "imageBased": {
+                        "badgeObject": [
+                            {
+                                "attributes": {
+                                    "description": "Delivery!",
+                                    "imageId": "Rxawards/_CATEGORY-Biryani.png"
+                                }
+                            },
+                            {
+                                "attributes": {
+                                    "description": "Delivery!",
+                                    "imageId": "Rxawards/_CATEGORY-Mughlai.png"
+                                }
+                            }
+                        ]
+                    },
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                }
+            },
+            "aggregatedDiscountInfoV3": {
+                "header": "20% OFF",
+                "subHeader": "UPTO ₹50"
+            },
+            "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                    "lottie": {},
+                    "video": {}
+                }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {},
+            "externalRatings": {
+                "aggregatedRating": {
+                    "rating": "3.8",
+                    "ratingCount": "47K+"
+                },
+                "source": "GOOGLE",
+                "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+            },
+            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+        },
+        "analytics": {
+            "context": "seo-data-21ca2b34-a5eb-4c64-9d2d-405af77e2b7f"
+        },
+        "cta": {
+            "link": "https://www.swiggy.com/city/hyderabad/shah-ghouse-hotel-and-restaurant-gachibowli-rest33040",
+            "type": "WEBLINK"
+        }
+    },
+    {
+        "info": {
+            "id": "699630",
+            "name": "Wendy's Burgers",
+            "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/12/5/b01e1d74-5c23-43fd-941b-5e169e66eb17_699630.jpg",
+            "locality": "Seven Hills Commerical Complex",
+            "areaName": "Lingampally",
+            "costForTwo": "₹200 for two",
+            "cuisines": [
+                "Burgers",
+                "American",
+                "Fast Food",
+                "Snacks"
+            ],
+            "avgRating": 4.1,
+            "parentId": "972",
+            "avgRatingString": "4.1",
+            "totalRatingsString": "2.7K+",
+            "sla": {
+                "deliveryTime": 35,
+                "lastMileTravel": 5.6,
+                "serviceability": "SERVICEABLE",
+                "slaString": "35-40 mins",
+                "lastMileTravelString": "5.6 km",
+                "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+                "nextCloseTime": "2024-12-26 03:00:00",
+                "opened": true
+            },
+            "badges": {
+                "textExtendedBadges": [
+                    {
+                        "iconId": "guiltfree/GF_Logo_android_3x",
+                        "shortDescription": "options available",
+                        "fontColor": "#7E808C"
+                    }
+                ]
+            },
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+                "entityBadges": {
+                    "imageBased": {},
+                    "textBased": {},
+                    "textExtendedBadges": {
+                        "badgeObject": [
+                            {
+                                "attributes": {
+                                    "description": "",
+                                    "fontColor": "#7E808C",
+                                    "iconId": "guiltfree/GF_Logo_android_3x",
+                                    "shortDescription": "options available"
+                                }
+                            }
+                        ]
+                    }
+                }
+            },
+            "aggregatedDiscountInfoV3": {
+                "header": "25% OFF",
+                "subHeader": "ABOVE ₹2500",
+                "discountTag": "FLAT DEAL"
+            },
+            "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                    "lottie": {},
+                    "video": {}
+                }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {},
+            "externalRatings": {
+                "aggregatedRating": {
+                    "rating": "--"
+                }
+            },
+            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+        },
+        "analytics": {
+            "context": "seo-data-21ca2b34-a5eb-4c64-9d2d-405af77e2b7f"
+        },
+        "cta": {
+            "link": "https://www.swiggy.com/city/hyderabad/wendys-burgers-seven-hills-commerical-complex-lingampally-rest699630",
+            "type": "WEBLINK"
+        }
+    }
+]

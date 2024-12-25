@@ -1,5 +1,8 @@
-// import './App.css'
+/* eslint-disable no-unsafe-optional-chaining */
+/* eslint-disable react/prop-types */
+
 import logo from "./assets/logo.png";
+import resList from "./config/resList.json";
 
 const Header = () => {
   return (
@@ -19,34 +22,49 @@ const Header = () => {
   );
 };
 
-const RestaurantCard = () => {
+const RestaurantCard = ({ resData }) => {
+  if (!resData) {
+    return null;
+  }
+
+  const {
+    name,
+    cuisines,
+    avgRating,
+    cloudinaryImageId,
+    sla: { deliveryTime },
+  } = resData;
+
   return (
     <div className="res-card">
       <img
         className="res-logo"
         alt="Restaurant Logo"
-        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpchdp0XlADE2A2TZ0UauStn-fBiiROMXtXw&s"
+        src={
+          "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/" +
+          cloudinaryImageId
+        }
       />
-      <h3 className="res-title">Cinnabon</h3>
-      <p className="res-type">Bakery, Cafe</p>
+      <h3 className="res-title">{name}</h3>
+      <p className="res-type">{cuisines.join(", ")}</p>
       <div className="res-info">
-        <span className="res-rating">⭐ 4.4</span>
-        <span className="res-time">⏱ 38 minutes</span>
+        <span className="res-rating">⭐ {avgRating}</span>
+        <span className="res-time">⏱ {deliveryTime}</span>
       </div>
     </div>
   );
 };
 
 const Body = () => {
+  console.log(resList);
+
   return (
     <>
       <div className="search">Search</div>
       <div className="restaurant-container">
-        <RestaurantCard />
-        <RestaurantCard />
-        <RestaurantCard />
-        <RestaurantCard />
-        <RestaurantCard />
+        {resList.map((restaurant, index) => {
+          return <RestaurantCard key={index} resData={restaurant.info} />;
+        })}
       </div>
     </>
   );

@@ -4,7 +4,7 @@ import './index.css'
 import AppLayout from './AppLayout.jsx'
 
 createRoot(document.getElementById('root')).render(
-  <StrictMode>
+  // <StrictMode>
     <AppLayout />
-  </StrictMode>,
+  // </StrictMode>,
 )
