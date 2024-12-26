@@ -1,5 +1,6 @@
 /* eslint-disable react/prop-types */
 import React from "react";
+import { CDN_URL } from "../config/constants";
 
 function RestaurantCard({resData}) {
     if (!resData) {
@@ -10,7 +11,7 @@ function RestaurantCard({resData}) {
         name,
         cuisines,
         avgRating,
-        cloudinaryImageId,
+        cloudinaryImageId:IMAGE_ID,
         sla: { deliveryTime },
     } = resData;
 
@@ -20,8 +21,8 @@ function RestaurantCard({resData}) {
                 className="res-logo"
                 alt="Restaurant Logo"
                 src={
-                    "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/" +
-                    cloudinaryImageId
+                    CDN_URL +
+                    IMAGE_ID
                 }
             />
             <h3 className="res-title">{name}</h3>
